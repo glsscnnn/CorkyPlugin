@@ -1,0 +1,9 @@
+name: CorkyPlugin
+author: eeayor
+version: 1.0
+main: me.eeayor.CorkyPlugin.CorkyPlugin
+description: none
+commands:
+  kit:
+    description: Starter Kit!
+    useage: /<command>
